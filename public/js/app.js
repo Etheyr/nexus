@@ -75,7 +75,11 @@ module.exports = __webpack_require__(2);
 /* 1 */
 /***/ (function(module, exports) {
 
-
+$(document).ready(function () {
+	$('#myCarousel').carousel({
+		interval: 2000
+	});
+});
 
 /***/ }),
 /* 2 */
