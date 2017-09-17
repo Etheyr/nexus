@@ -7,15 +7,75 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/semantic-ui/2.2.10/semantic.min.css">
 
-    <title>Nexus</title>
-    <link rel="stylesheet" href="{{ mix('css/app.css') }}">
+	<title>Nexus</title>
+	<link rel="stylesheet" href="{{ mix('css/app.css') }}">
 	<!-- Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
 </head>
 <body>
 
 
+	<nav class="navbar navbar-default navbar-fixed-top">
 
-	
+		<div class="container">
+			<ul class="nav navbar-nav navbar-right">
+				<li><img src="logoBoot.png" width="50px" height="50px" alt="logo"></li>
+				<li><h3 class="titre">Nexus community</h3></li>
+				<li><a href="#">Presentation</a></li>
+				<li><a href="#">games</a></li>
+				<li><a href="#">nous rejoindre</a></li>
+
+			</ul>
+		</div>
+	</nav>
+
+
+	<div class="presentation">
+
+		<br>
+		<br>
+
+		<h2 class="presentTitle">Présentation</h2>
+		<div id="columnPadding" class="ui two column centered grid">
+			<div class="ui link cards">
+
+				<div id="card" class="card">
+					<h3>lorem ipsum</h3>
+					<div class="image">
+
+					</div>
+					<div class="content">
+						<div>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas </div>
+					</div>
+				</div>
+				<div id="card"  class="card">
+					<h3>lorem ipsum</h3>
+					<div class="image">
+					</div>
+					<div class="content">
+						<div>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas </div>
+					</div>
+				</div>
+				<div id="card" class="card">
+					<h3>lorem ipsum</h3>
+					<div class="image">
+
+					</div>
+					<div class="content">
+						<div>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas </div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+</div>
+
+
+
+
 </body>
 </html>
