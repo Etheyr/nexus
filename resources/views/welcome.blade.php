@@ -13,21 +13,22 @@
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
 </head>
 <body>
-
-
+<!-- menu debut-->
 <nav class="navbar navbar-default navbar-fixed-top">
 
-    <div class="container">
-        <ul class="nav navbar-nav navbar-right">
-            <li><img src="logoBoot.png" width="50px" height="50px" alt="logo"></li>
-            <li><h3 class="titre">Nexus community</h3></li>
-            <li><a href="#">Presentation</a></li>
-            <li><a href="#">games</a></li>
-            <li><a href="#">nous rejoindre</a></li>
+    <div class="menu">
+    <img class="imgLogo"  src="logoBoot.png" width="50px" height="50px" alt="logo">
+    <h3 class="titre">Nexus community</h3>
+        <ul id="menu" class="nav navbar-nav navbar-right">
+            
+            <li id="menuLi"><a href="#">Presentation</a></li>
+            <li id="menuLi"><a href="#">games</a></li>
+            <li id="menuLi"><a href="#">nous rejoindre</a></li>
             
         </ul>
     </div>
 </nav>
+<!-- menu fin -->
 
 
 
