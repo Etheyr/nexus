@@ -17,7 +17,7 @@
 	<nav class="navbar navbar-default navbar-fixed-top">
 
 		<div class="menu">
-			<img class="imgLogo"  src="logoBoot.png" width="50px" height="50px" alt="logo">
+			<img class="imgLogo"  src="logo_server_discord-Recupere.png" width="50px" height="50px" alt="logo">
 			<h3 class="titre">Nexus community</h3>
 			<ul id="menu" class="nav navbar-nav navbar-right">
 
@@ -32,54 +32,53 @@
 
 
 	<div class="presentation">
-
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-
-		<h2 class="presentTitle">Présentation</h2>
-		<div id="columnPadding" class="ui two column centered grid">
-			<div class="ui link cards">
-
-				<div id="card" class="card">
-					<h3>lorem ipsum</h3>
-					<div class="image">
-
-					</div>
-					<div class="content">
-						<div>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas </div>
-					</div>
-				</div>
-				<div id="card"  class="card">
-					<h3>lorem ipsum</h3>
-					<div class="image">
-					</div>
-					<div class="content">
-						<div>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas </div>
-					</div>
-				</div>
-				<div id="card" class="card">
-					<h3>lorem ipsum</h3>
-					<div class="image">
-
-					</div>
-					<div class="content">
-						<div>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas </div>
+		<div class="ui container">
+			<div class="ui grid">
+				<div class="sixteen wide column">
+				<h2 id="titleh2" class="ui header">Presentation</h2>
+					<div class="ui three stackable cards">
+						<div id="carte" class="card">
+							<div class="ui left piled segment">
+								<img src="https://cdn.worldvectorlogo.com/logos/discord.svg" class="ui tiny left floated image">
+								<h3 class="ui header text-center" style="margin-top: 0px;">Notre discord</h3>
+								<div class="floated right text-center description">
+									<p id="textCard">
+										Lorem ipsum dolor sit amet, epicuri recteque mel in. Summo senserit interesset ea mea. Lorem suscipiantur vel id. Dicta nostro comprehensam te vim, falli aperiri lobortis mei et. An sanctus ceteros pri, possit rationibus accommodare vix ex.
+									</p>                
+								</div>
+							</div>
+						</div>
+						<div id="carte" class="card">
+							<div class="ui left piled segment">
+								<img src="https://vignette.wikia.nocookie.net/leagueoflegends/images/1/12/League_of_Legends_Icon.png/revision/latest?cb=20150402234343" class="ui tiny left floated image">
+								<h3 class="ui header text-center" style="margin-top: 0px;" >Nos projets</h3>
+								<div class="floated right text-center description">
+									<p id="textCard">
+										Lorem ipsum dolor sit amet, epicuri recteque mel in. Summo senserit interesset ea mea. Lorem suscipiantur vel id. Dicta nostro comprehensam te vim, falli aperiri lobortis mei et. An sanctus ceteros pri, possit rationibus accommodare vix ex.
+									</p>      
+								</div>
+							</div>
+						</div>
+						<div id="carte" class="card">
+							<div class="ui left piled segment">
+								<img src="http://www.icone-png.com/png/25/24892.png" class="ui tiny left floated image">
+								<h3 class="ui header text-center" style="margin-top: 0px;" >Notre but</h3>
+								<div class="floated right text-center description">
+									<p id="textCard">
+										Lorem ipsum dolor sit amet, epicuri recteque mel in. Summo senserit interesset ea mea. Lorem suscipiantur vel id. Dicta nostro comprehensam te vim, falli aperiri lobortis mei et. An sanctus ceteros pri, possit rationibus accommodare vix ex.
+									</p>      
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
+
+
 		</div>
-	</div>
-
-
-
-</div>
 
 
 
 
-</body>
-</html>
+	</body>
+	</html>

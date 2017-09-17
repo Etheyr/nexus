@@ -4,22 +4,23 @@
 	height:71em;
 	width: 100%;
 }
-.presentTitle {
-	margin-left: 5em;
-	font-size: 50px;
-	color: #18dcda;
+#titleh2{
+	margin-top: 4em;
+	text-align: center;
+	color:white;
+	font-size: 45px;
 	font-family: Impact, fantasy;
 }
-.content {
-	color: #595959;
-}
-#card {
+#carte {
 	margin-top: 10em;
-	margin: 3em;
-	height: 30em;
 
 }
 
+#textCard {
+	color:#787878;
+	font-size: 24px;
+	font-family: Impact, fantasy;
+}
 .imgLogo {
   float: left;
   margin: 20px;
@@ -30,6 +31,9 @@
   float: left;
   padding-left: 100px;
   font-weight: bold;
+  color:#787878;
+  font-family: Impact, fantasy;
+
 }
 
 #menu {
