@@ -1,23 +1,24 @@
-
-.presentation { 
-	background-color: #2f2f2f;
-	height:71em;
-	width: 100%;
+.presentation {
+  background-color: #2f2f2f;
+  height: 71em;
+  width: 100%;
 }
+
 .presentTitle {
-	margin-left: 5em;
-	font-size: 50px;
-	color: #18dcda;
-	font-family: Impact, fantasy;
+  margin-left: 5em;
+  font-size: 50px;
+  color: #18dcda;
+  font-family: Impact, fantasy;
 }
-.content {
-	color: #595959;
-}
-#card {
-	margin-top: 10em;
-	margin: 3em;
-	height: 30em;
 
+.content {
+  color: #595959;
+}
+
+#card {
+  margin-top: 10em;
+  margin: 3em;
+  height: 30em;
 }
 
 .imgLogo {
@@ -40,5 +41,25 @@
 
 #menuLi {
   padding-left: 30px;
+}
+
+.carousel {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.carousel .item {
+  width: 100%;
+  min-height: 520px;
+  /* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+
+.carousel .item img {
+  margin: 0 auto;
+  /* Align slide image horizontally center */
+}
+
+.bs-example {
+  margin: 20px;
 }
 

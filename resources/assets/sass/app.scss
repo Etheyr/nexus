@@ -1,18 +1,61 @@
+
+.presentation { 
+	background-color: #2f2f2f;
+	height:71em;
+	width: 100%;
+}
+.presentTitle {
+	margin-left: 5em;
+	font-size: 50px;
+	color: #18dcda;
+	font-family: Impact, fantasy;
+}
+.content {
+	color: #595959;
+}
+#card {
+	margin-top: 10em;
+	margin: 3em;
+	height: 30em;
+
+}
+
 .imgLogo {
-	float: left;
+  float: left;
+  margin: 20px;
+}
+
+.titre {
+  font-size: 50px;
+  float: left;
+  padding-left: 100px;
+  font-weight: bold;
+}
+
+#menu {
+
+  padding-top: 17px;
+  padding-right: 120px;
+  font-size: 30px;
+}
+
+#menuLi {
+  padding-left: 30px;
+}
+.carousel {
+	text-align: center;
+	margin: 0 auto;
+    
+}
+.carousel .item{
+	width: 100%;
+    min-height: 520px; 
+}
+.carousel .item img{
+    margin: 0 auto; 
+}
+.bs-example{
 	margin: 20px;
 }
-.titre {
-	font-size: 50px;
-	float: left;
-	padding-left: 100px;
-	font-weight: bold;
-}
-#menu {
-	padding-top: 17px;
-	padding-right: 120px;
-	font-size: 30px;
-}
-#menuLi {
-	padding-left: 30px;
-}
+
+
