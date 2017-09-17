@@ -14,7 +14,7 @@
              </button>
          </div>
          <div class="collapse navbar-collapse" id="menu">
-            <ul class="nav navbar-nav">
+            <ul class="nav left navbar-nav navbar-left">
             	<li><a href="#">LOGO</a></li>
                 <li><a href="#">NEXUS COMMUNITY</a></li>
                 <li><a href="#">Presentation</a></li>
