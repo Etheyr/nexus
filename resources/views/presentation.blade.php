@@ -1,6 +1,6 @@
 @extends('welcome')
 
-@section('content')
+@section('content1')
 
 
 <div class="presentation">
