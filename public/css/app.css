@@ -1,3 +1,4 @@
+
 .presentation { 
 	background-color: #2f2f2f;
 	height:71em;
@@ -18,3 +19,26 @@
 	height: 30em;
 
 }
+
+.imgLogo {
+  float: left;
+  margin: 20px;
+}
+
+.titre {
+  font-size: 50px;
+  float: left;
+  padding-left: 100px;
+  font-weight: bold;
+}
+
+#menu {
+  padding-top: 17px;
+  padding-right: 120px;
+  font-size: 30px;
+}
+
+#menuLi {
+  padding-left: 30px;
+}
+
