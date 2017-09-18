@@ -1,5 +1,5 @@
 body {
-  background-color: #2f2f2f;
+  background-color: white;
   margin: 0;
   padding: 0;
 }
@@ -110,12 +110,22 @@ body {
 
 .carousel .item {
   width: 100%;
-  min-height: 520px;
+  min-height: 400px;
   /* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+
+.taille {
+  height: 450px;
+  width: 100%;
+}
+
+.item .active {
+  height: 450px;
 }
 
 .carousel .item img {
   margin: 0 auto;
+  height: 800px;
   /* Align slide image horizontally center */
 }
 
