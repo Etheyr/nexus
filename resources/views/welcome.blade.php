@@ -111,71 +111,75 @@
 	<!-- prez fin -->
 	<!-- jeux debut -->
 	<div class="jeux">
-	<h2 id="titleh22" class="ui header">Jeux</h2>
+		<h2 id="titleh22" class="ui header">Jeux</h2>
 		<div class="ui grid container">
 			<div class="four wide column">
 				<div id="carte" class="card">
-							<div id="sizeCard2"  class="ui left piled inverted segment">
-								<img class="ui medium circular image" src="https://vignette.wikia.nocookie.net/leagueoflegends/images/1/12/League_of_Legends_Icon.png/revision/latest?cb=20150402234343" class="ui tiny left floated image">
-								<div class="floated right text-center description">
-									<p id="textCard">
-										Nous jouons surtout pour le fun , mais il peut nous arriver de try hard . Venez chercher du monde pour flex , pour duoQ ou tout simplement pour une normal.
-									</p>      
-								</div>
-							</div>
+					<div id="sizeCard2"  class="ui left piled inverted segment">
+						<img class="ui medium circular image" src="https://vignette.wikia.nocookie.net/leagueoflegends/images/1/12/League_of_Legends_Icon.png/revision/latest?cb=20150402234343" class="ui tiny left floated image">
+						<div class="floated right text-center description">
+							<p id="textCard">
+								Nous jouons surtout pour le fun , mais il peut nous arriver de try hard . Venez chercher du monde pour flex , pour duoQ ou tout simplement pour une normal.
+							</p>      
 						</div>
+					</div>
+				</div>
 			</div>
 			<div class="four wide column">
 				<div id="carte" class="card">
-							<div id="sizeCard2" class="ui left piled inverted segment">
-								<img class="ui medium circular image" src="Overwatch_circle_logo.svg.png" class="ui tiny left floated image">
-								<div class="floated right text-center description">
-									<p id="textCard">
-										Un peu comme League Of Legends , nous jouons pour le fun mais il peut nous arriver de try hard , venez chercher dess mates.
-									</p>      
-								</div>
-							</div>
+					<div id="sizeCard2" class="ui left piled inverted segment">
+						<img class="ui medium circular image" src="Overwatch_circle_logo.svg.png" class="ui tiny left floated image">
+						<div class="floated right text-center description">
+							<p id="textCard">
+								Un peu comme League Of Legends , nous jouons pour le fun mais il peut nous arriver de try hard , venez chercher dess mates.
+							</p>      
 						</div>
+					</div>
+				</div>
 			</div>
 			<div class="four wide column">
 				<div id="carte" class="card">
-							<div id="sizeCard2" class="ui left piled inverted segment">
-								<img class="ui medium circular image" src="d3.png" class="ui tiny left floated image">
-								<div class="floated right text-center description">
-									<p id="textCard">
-										Nous jouons occasionnellement , mais rien ne vous empêche de trouver des personnes qui sont intéressés par Diablo III 
-									</p>      
-								</div>
-							</div>
+					<div id="sizeCard2" class="ui left piled inverted segment">
+						<img class="ui medium circular image" src="d3.png" class="ui tiny left floated image">
+						<div class="floated right text-center description">
+							<p id="textCard">
+								Nous jouons occasionnellement , mais rien ne vous empêche de trouver des personnes qui sont intéressés par Diablo III 
+							</p>      
 						</div>
+					</div>
+				</div>
 			</div>
 			<div class="four wide column">
 				<div id="carte" class="card">
-							<div id="sizeCard2" class="ui left piled inverted segment">
-								<img class="ui medium circular image" src="dofus.png" class="ui tiny left floated image">
-								<div class="floated right text-center description">
-									<p id="textCard">
-									Nous jouons sur le serveur Pandore pour la plus part Venez nous rejoindre pour des AvA , des donjon, des succès.
-									</p>      
-								</div>
-							</div>
+					<div id="sizeCard2" class="ui left piled inverted segment">
+						<img class="ui medium circular image" src="dofus.png" class="ui tiny left floated image">
+						<div class="floated right text-center description">
+							<p id="textCard">
+								Nous jouons sur le serveur Pandore pour la plus part Venez nous rejoindre pour des AvA , des donjon, des succès.
+							</p>      
 						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
 	<!-- fin jeux  -->
 	<!-- discord debut -->
 	<div class="discord">
+		<div class="ui centered grid">
+			<h2 id="titleh22" class="ui header">Discord</h2>
+			<a target="_blank" href="https://discord.gg/yZD24y">
+				<div class="column"><img class="ui medium circular image" src="logo_server_discord-Recupere.png" class="ui tiny left floated image"></a></div>
+				<div class="column"><h3 id="titleh3" class="ui header">Click to join community</h3></div>
+				</div>
+			</div>
+		</div>
 
+		<!-- fin discord -->
 
-
-
-	</div>
-	<!-- fin discord -->
-
-</body>
-<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<script src="{{ mix('js/app.js') }}"></script>
-</html>
+	</body>
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="{{ mix('js/app.js') }}"></script>
+	</html>
 
