@@ -1,61 +1,118 @@
-
-.presentation { 
+body {
 	background-color: #2f2f2f;
-	height:71em;
+	margin: 0;
+	padding: 0;
+}
+.presentation {
+	background-image: url('/133362-wallup .png');
+	height: 71em;
 	width: 100%;
 }
-.presentTitle {
-	margin-left: 5em;
-	font-size: 50px;
-	color: #18dcda;
+
+#titleh2{
+	margin-top: 4em;
+	text-align: center;
+	color:white;
+	font-size: 45px;
 	font-family: Impact, fantasy;
 }
-.content {
-	color: #595959;
+#titleh22{
+	margin-top: 3em;
+	text-align: center;
+	color:white;
+	font-size: 45px;
+	font-family: Impact, fantasy;
+}
+#carte {
+	margin-top: 10em;
+	box-shadow: none;
+	border-radius: 30px;
+}
+#colorMenu{
+background-color: white;
 }
 #card {
 	margin-top: 10em;
 	margin: 3em;
 	height: 30em;
-
+	border-radius: 30px;
 }
-
-.imgLogo {
-  float: left;
-  margin: 20px;
+#sizeCard{
+	height: 20em;
+	border-radius: 30px;
+	
 }
-
-.titre {
-  font-size: 50px;
-  float: left;
-  padding-left: 100px;
-  font-weight: bold;
+#sizeCard2{
+	height: 37em;
 }
-
-#menu {
-
-  padding-top: 17px;
-  padding-right: 120px;
-  font-size: 30px;
+#titleCard {
+	font-size: 30px;
 }
-
-#menuLi {
-  padding-left: 30px;
-}
-.carousel {
-	text-align: center;
-	margin: 0 auto;
-    
-}
-.carousel .item{
+.jeux{
+	margin-top: 10em;
+	background-image: url('/Hanamura-blur.png');
+	height: 71em;
 	width: 100%;
-    min-height: 520px; 
+
 }
-.carousel .item img{
-    margin: 0 auto; 
+
+#textCard {
+	color:white;
+	font-size: 24px;
+	font-family: Impact, fantasy;
 }
-.bs-example{
+.imgLogo {
+	float: left;
 	margin: 20px;
 }
 
+.titre {
+	font-size: 40px;
+	padding-left: 100px;
+	font-weight: bold;
+	color:#787878;
+	font-family: Impact, fantasy;
 
+}
+#itemsMenu {
+
+	color:#595959;
+	font-family: Impact, fantasy;
+	font-size: 30px;
+
+}
+#menu {
+	padding-right: 120px;
+	font-size: 30px;
+}
+.logoMenu{
+	height: 80px;
+	width: 80px;
+}
+
+#menuLi {
+	padding-left: 30px;
+}
+
+.carousel {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.carousel .item {
+	width: 100%;
+	min-height: 520px;
+	/* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+
+.carousel .item img {
+	margin: 0 auto;
+	/* Align slide image horizontally center */
+}
+.discord {
+	margin-top: 10em;
+	background-image: url('/champion.png');
+	height: 71em;
+	width: 100%;
+
+}
