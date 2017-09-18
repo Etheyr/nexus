@@ -114,18 +114,10 @@ body {
   /* Prevent carousel from being distorted if for some reason image doesn't load */
 }
 
-.taille {
-  height: 450px;
-  width: 100%;
-}
-
-.item .active {
-  height: 450px;
-}
-
 .carousel .item img {
   margin: 0 auto;
-  height:1000px;
+  height: 800px;
+  width: 100%;
   /* Align slide image horizontally center */
 }
 
