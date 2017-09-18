@@ -1,5 +1,7 @@
 body {
 	background-color: #2f2f2f;
+	margin: 0;
+	padding: 0;
 }
 .presentation {
 	background-image: url('/133362-wallup .png');
@@ -8,7 +10,7 @@ body {
 }
 
 #titleh2{
-
+	margin-top: 4em;
 	text-align: center;
 	color:white;
 	font-size: 45px;
@@ -21,36 +23,30 @@ body {
 	font-size: 45px;
 	font-family: Impact, fantasy;
 }
-#margitopend {
-	margin-top: 25em;
-}
-#titleh3{
-	color:white;
-	font-size: 45px;
-	font-family: Impact, fantasy;
-	}
 #carte {
 	margin-top: 10em;
+	box-shadow: none;
+	border-radius: 30px;
 }
 #colorMenu{
-	background-color: white;
+background-color: white;
 }
 #card {
 	margin-top: 10em;
 	margin: 3em;
 	height: 30em;
+	border-radius: 30px;
 }
 #sizeCard{
 	height: 20em;
+	border-radius: 30px;
+	
 }
 #sizeCard2{
 	height: 37em;
 }
 #titleCard {
 	font-size: 30px;
-}
-#topLogolink {
-	margin-top: 20em;
 }
 .jeux{
 	margin-top: 10em;
@@ -59,9 +55,7 @@ body {
 	width: 100%;
 
 }
-.discord {
 
-}
 #textCard {
 	color:white;
 	font-size: 24px;
