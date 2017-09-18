@@ -15,7 +15,7 @@
 </head>
 <body>
 	<!-- menu debut-->
-	<div class="ui top fixed  menu">
+	<div id="colorMenu" class="ui top fixed  menu">
 		
 		<img class="logoMenu" src="logo_server_site.png">
 		
@@ -71,34 +71,34 @@
 					<h2 id="titleh2" class="ui header">Presentation</h2>
 					<div class="ui three stackable cards">
 						<div id="carte" class="card">
-							<div class="ui left piled inverted segment">
+							<div id="sizeCard" class="ui left piled inverted segment">
 								<img src="https://cdn.worldvectorlogo.com/logos/discord.svg" class="ui tiny left floated image">
 								<h3 id="titleCard"  class="ui header text-center" style="margin-top: 0px;">Notre discord</h3>
 								<div class="floated right text-center description">
 									<p id="textCard">
-										Lorem ipsum dolor sit amet, epicuri recteque mel in. Summo senserit interesset ea mea. Lorem suscipiantur vel id. Dicta nostro comprehensam te vim, falli aperiri lobortis mei et. An sanctus ceteros pri, possit rationibus accommodare vix ex.
+										Au début nous avons créer ce discord pour tester diverse bot et petit à petit nous avont inviter nos amis ,pour au final garder ce serveur comme principal.
 									</p>                
 								</div>
 							</div>
 						</div>
 						<div id="carte" class="card">
-							<div class="ui left piled inverted segment">
+							<div id="sizeCard" class="ui left piled inverted segment">
 								<img src="https://vignette.wikia.nocookie.net/leagueoflegends/images/1/12/League_of_Legends_Icon.png/revision/latest?cb=20150402234343" class="ui tiny left floated image">
 								<h3 id="titleCard" class="ui header text-center" style="margin-top: 0px;" >Nos projets</h3>
 								<div class="floated right text-center description">
 									<p id="textCard">
-										Lorem ipsum dolor sit amet, epicuri recteque mel in. Summo senserit interesset ea mea. Lorem suscipiantur vel id. Dicta nostro comprehensam te vim, falli aperiri lobortis mei et. An sanctus ceteros pri, possit rationibus accommodare vix ex.
+										Nous voulons un serveur agréable pour tous le monde , ou tous le monde peut inviter qui il veut quand il veut . 
 									</p>      
 								</div>
 							</div>
 						</div>
 						<div id="carte" class="card">
-							<div class="ui left piled inverted segment">
+							<div id="sizeCard" class="ui left piled inverted segment">
 								<img src="http://www.icone-png.com/png/25/24892.png" class="ui tiny left floated image">
 								<h3 id="titleCard"  class="ui header text-center" style="margin-top: 0px;" >Notre but</h3>
 								<div class="floated right text-center description">
 									<p id="textCard">
-										Lorem ipsum dolor sit amet, epicuri recteque mel in. Summo senserit interesset ea mea. Lorem suscipiantur vel id. Dicta nostro comprehensam te vim, falli aperiri lobortis mei et. An sanctus ceteros pri, possit rationibus accommodare vix ex.
+										Notre de but et de réunir un maximum de personnes pour pouvoir grandir , et que le serveur soit vivant .
 									</p>      
 								</div>
 							</div>
@@ -163,6 +163,15 @@
 			</div>
 		</div>
 	</div>
+	<!-- fin jeux  -->
+	<!-- discord debut -->
+	<div class="discord">
+
+
+
+
+	</div>
+	<!-- fin discord -->
 
 </body>
 <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>

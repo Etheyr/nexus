@@ -24,18 +24,23 @@ body {
 #carte {
 	margin-top: 10em;
 }
-
+#colorMenu{
+background-color: white;
+}
 #card {
 	margin-top: 10em;
 	margin: 3em;
 	height: 30em;
+}
+#sizeCard{
+	height: 20em;
 }
 #titleCard {
 	font-size: 30px;
 }
 .jeux{
 	margin-top: 10em;
-	background-image: url('/133362-wallup .png');
+	background-image: url('/Hanamura-blur.png');
 	height: 71em;
 	width: 100%;
 
@@ -94,8 +99,10 @@ body {
 	margin: 0 auto;
 	/* Align slide image horizontally center */
 }
-
-.bs-example {
+.discord {
+	margin-top: 10em;
+	background-image: url('/champion.png');
+	height: 71em;
+	width: 100%;
 
 }
-
