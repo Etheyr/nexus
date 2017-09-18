@@ -15,29 +15,19 @@
 </head>
 <body>
 	<!-- menu debut-->
-	<nav class="navbar navbar-default navbar-fixed-top">
-
-		<div class="menu">
-			<img class="imgLogo"  src="logo_server_discord-Recupere.png" width="50px" height="50px" alt="logo">
-			<h3 class="titre">Nexus community</h3>
-			<ul id="menu" class="nav navbar-nav navbar-right">
-
-				<li id="menuLi"><a href="#">Presentation</a></li>
-				<li id="menuLi"><a href="#">games</a></li>
-				<li id="menuLi"><a href="#">nous rejoindre</a></li>
-
-			</ul>
+	<div class="ui top fixed  menu">
+		
+		<img class="logoMenu" src="logo_server_site.png">
+		
+		<a id="itemsMenu" class="item">Nexus Community</a>
+		<div class="right menu">
+			<a id="itemsMenu" class="item">Présentaton</a>
+			<a id="itemsMenu" class="item">Jeux</a>
+			<a id="itemsMenu" class="item">Discord</a>
 		</div>
-	</nav>
+	</div>
 
 	<!-- menu fin -->
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
 
 	<!-- carrousel debut  -->
 
@@ -52,16 +42,16 @@
 			<!-- Wrapper for carousel items -->
 			<div class="carousel-inner">
 				<div class="item active">
-					<img class="taille" src="/licorne.png" alt="First Slide">
+					<img class="taille" src="/joinDiscord.png" alt="First Slide">
 				</div>
 				<div class="item">
-					<img class="taille" src="/licorne.png" alt="Second Slide">
+					<img class="taille" src="/joinDiscord.png" alt="Second Slide">
 				</div>
 				<div class="item">
-					<img class="taille" src="/licorne.png" alt="Third Slide">
+					<img class="taille" src="/joinDiscord.png" alt="Third Slide">
 				</div>
 			</div>
-			
+
 		</div>
 	</div>
 
@@ -81,9 +71,9 @@
 					<h2 id="titleh2" class="ui header">Presentation</h2>
 					<div class="ui three stackable cards">
 						<div id="carte" class="card">
-							<div class="ui left piled segment">
+							<div class="ui left piled inverted segment">
 								<img src="https://cdn.worldvectorlogo.com/logos/discord.svg" class="ui tiny left floated image">
-								<h3 class="ui header text-center" style="margin-top: 0px;">Notre discord</h3>
+								<h3 id="titleCard"  class="ui header text-center" style="margin-top: 0px;">Notre discord</h3>
 								<div class="floated right text-center description">
 									<p id="textCard">
 										Lorem ipsum dolor sit amet, epicuri recteque mel in. Summo senserit interesset ea mea. Lorem suscipiantur vel id. Dicta nostro comprehensam te vim, falli aperiri lobortis mei et. An sanctus ceteros pri, possit rationibus accommodare vix ex.
@@ -92,9 +82,9 @@
 							</div>
 						</div>
 						<div id="carte" class="card">
-							<div class="ui left piled segment">
+							<div class="ui left piled inverted segment">
 								<img src="https://vignette.wikia.nocookie.net/leagueoflegends/images/1/12/League_of_Legends_Icon.png/revision/latest?cb=20150402234343" class="ui tiny left floated image">
-								<h3 class="ui header text-center" style="margin-top: 0px;" >Nos projets</h3>
+								<h3 id="titleCard" class="ui header text-center" style="margin-top: 0px;" >Nos projets</h3>
 								<div class="floated right text-center description">
 									<p id="textCard">
 										Lorem ipsum dolor sit amet, epicuri recteque mel in. Summo senserit interesset ea mea. Lorem suscipiantur vel id. Dicta nostro comprehensam te vim, falli aperiri lobortis mei et. An sanctus ceteros pri, possit rationibus accommodare vix ex.
@@ -103,9 +93,9 @@
 							</div>
 						</div>
 						<div id="carte" class="card">
-							<div class="ui left piled segment">
+							<div class="ui left piled inverted segment">
 								<img src="http://www.icone-png.com/png/25/24892.png" class="ui tiny left floated image">
-								<h3 class="ui header text-center" style="margin-top: 0px;" >Notre but</h3>
+								<h3 id="titleCard"  class="ui header text-center" style="margin-top: 0px;" >Notre but</h3>
 								<div class="floated right text-center description">
 									<p id="textCard">
 										Lorem ipsum dolor sit amet, epicuri recteque mel in. Summo senserit interesset ea mea. Lorem suscipiantur vel id. Dicta nostro comprehensam te vim, falli aperiri lobortis mei et. An sanctus ceteros pri, possit rationibus accommodare vix ex.
@@ -119,6 +109,60 @@
 		</div>
 	</div>
 	<!-- prez fin -->
+	<!-- jeux debut -->
+	<div class="jeux">
+	<h2 id="titleh22" class="ui header">Jeux</h2>
+		<div class="ui grid container">
+			<div class="four wide column">
+				<div id="carte" class="card">
+							<div class="ui left piled inverted segment">
+								<img class="ui medium circular image" src="https://vignette.wikia.nocookie.net/leagueoflegends/images/1/12/League_of_Legends_Icon.png/revision/latest?cb=20150402234343" class="ui tiny left floated image">
+								<div class="floated right text-center description">
+									<p id="textCard">
+										Lorem ipsum dolor sit amet, epicuri recteque mel in. Summo senserit interesset ea mea. Lorem suscipiantur vel id. Dicta nostro comprehensam te vim, falli aperiri lobortis mei et. An sanctus ceteros pri, possit rationibus accommodare vix ex.
+									</p>      
+								</div>
+							</div>
+						</div>
+			</div>
+			<div class="four wide column">
+				<div id="carte" class="card">
+							<div class="ui left piled inverted segment">
+								<img class="ui medium circular image" src="Overwatch_circle_logo.svg.png" class="ui tiny left floated image">
+								<div class="floated right text-center description">
+									<p id="textCard">
+										Lorem ipsum dolor sit amet, epicuri recteque mel in. Summo senserit interesset ea mea. Lorem suscipiantur vel id. Dicta nostro comprehensam te vim, falli aperiri lobortis mei et. An sanctus ceteros pri, possit rationibus accommodare vix ex.
+									</p>      
+								</div>
+							</div>
+						</div>
+			</div>
+			<div class="four wide column">
+				<div id="carte" class="card">
+							<div class="ui left piled inverted segment">
+								<img class="ui medium circular image" src="d3.png" class="ui tiny left floated image">
+								<div class="floated right text-center description">
+									<p id="textCard">
+										Lorem ipsum dolor sit amet, epicuri recteque mel in. Summo senserit interesset ea mea. Lorem suscipiantur vel id. Dicta nostro comprehensam te vim, falli aperiri lobortis mei et. An sanctus ceteros pri, possit rationibus accommodare vix ex.
+									</p>      
+								</div>
+							</div>
+						</div>
+			</div>
+			<div class="four wide column">
+				<div id="carte" class="card">
+							<div class="ui left piled inverted segment">
+								<img class="ui medium circular image" src="dofus.png" class="ui tiny left floated image">
+								<div class="floated right text-center description">
+									<p id="textCard">
+										Lorem ipsum dolor sit amet, epicuri recteque mel in. Summo senserit interesset ea mea. Lorem suscipiantur vel id. Dicta nostro comprehensam te vim, falli aperiri lobortis mei et. An sanctus ceteros pri, possit rationibus accommodare vix ex.
+									</p>      
+								</div>
+							</div>
+						</div>
+			</div>
+		</div>
+	</div>
 
 </body>
 <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
