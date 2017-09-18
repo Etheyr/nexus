@@ -45,7 +45,7 @@
 					<img class="taille" src="/joinDiscord.png" alt="First Slide">
 				</div>
 				<div class="item">
-					<img class="taille" src="/joinDiscord.png" alt="Second Slide">
+					<img class="taille" src="/rejoingmate.png" alt="Second Slide">
 				</div>
 				<div class="item">
 					<img class="taille" src="/joinDiscord.png" alt="Third Slide">
