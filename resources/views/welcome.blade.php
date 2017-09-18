@@ -87,7 +87,7 @@
 								<h3 id="titleCard" class="ui header text-center" style="margin-top: 0px;" >Nos projets</h3>
 								<div class="floated right text-center description">
 									<p id="textCard">
-										Nous voulons un serveur agréable pour tous le monde , ou tous le monde peut inviter qui il veut quand il veut . 
+										Nous voulons un serveur agréable pour tout le monde , où tout le monde peut inviter qui il veut quand il veut. 
 									</p>      
 								</div>
 							</div>
@@ -98,7 +98,7 @@
 								<h3 id="titleCard"  class="ui header text-center" style="margin-top: 0px;" >Notre but</h3>
 								<div class="floated right text-center description">
 									<p id="textCard">
-										Notre de but et de réunir un maximum de personnes pour pouvoir grandir , et que le serveur soit vivant .
+										Notre but est de réunir un maximum de personnes pour pouvoir grandir , et que le serveur soit vivant.
 									</p>      
 								</div>
 							</div>
