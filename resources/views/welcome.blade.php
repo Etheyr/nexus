@@ -119,7 +119,7 @@
 								<img class="ui medium circular image" src="https://vignette.wikia.nocookie.net/leagueoflegends/images/1/12/League_of_Legends_Icon.png/revision/latest?cb=20150402234343" class="ui tiny left floated image">
 								<div class="floated right text-center description">
 									<p id="textCard">
-										Lorem ipsum dolor sit amet, epicuri recteque mel in. Summo senserit interesset ea mea. Lorem suscipiantur vel id. Dicta nostro comprehensam te vim, falli aperiri lobortis mei et. An sanctus ceteros pri, possit rationibus accommodare vix ex.
+										Nous jouons surtout pour le fun , mais il peut nous arriver de try hard , venez chercher du mondde pour flex ou pour duoQ .
 									</p>      
 								</div>
 							</div>
@@ -131,7 +131,7 @@
 								<img class="ui medium circular image" src="Overwatch_circle_logo.svg.png" class="ui tiny left floated image">
 								<div class="floated right text-center description">
 									<p id="textCard">
-										Lorem ipsum dolor sit amet, epicuri recteque mel in. Summo senserit interesset ea mea. Lorem suscipiantur vel id. Dicta nostro comprehensam te vim, falli aperiri lobortis mei et. An sanctus ceteros pri, possit rationibus accommodare vix ex.
+										Un peut pareille que league of legends nous jouons pour le fun mais il peut nous arriver de try hard , venez chercher vos mate .
 									</p>      
 								</div>
 							</div>
@@ -143,7 +143,7 @@
 								<img class="ui medium circular image" src="d3.png" class="ui tiny left floated image">
 								<div class="floated right text-center description">
 									<p id="textCard">
-										Lorem ipsum dolor sit amet, epicuri recteque mel in. Summo senserit interesset ea mea. Lorem suscipiantur vel id. Dicta nostro comprehensam te vim, falli aperiri lobortis mei et. An sanctus ceteros pri, possit rationibus accommodare vix ex.
+										Nous jouons occasionnellement mais rien ne vous empeche de trouver des personne qui sont intéresser par Diablo III .
 									</p>      
 								</div>
 							</div>
@@ -155,7 +155,7 @@
 								<img class="ui medium circular image" src="dofus.png" class="ui tiny left floated image">
 								<div class="floated right text-center description">
 									<p id="textCard">
-										Lorem ipsum dolor sit amet, epicuri recteque mel in. Summo senserit interesset ea mea. Lorem suscipiantur vel id. Dicta nostro comprehensam te vim, falli aperiri lobortis mei et. An sanctus ceteros pri, possit rationibus accommodare vix ex.
+									Nous jouons sur le serveur Pandore pour la plus part Venez nous rejoindre pour des AvA , des donjon, des succès.
 									</p>      
 								</div>
 							</div>
