@@ -115,7 +115,7 @@
 		<div class="ui grid container">
 			<div class="four wide column">
 				<div id="carte" class="card">
-							<div class="ui left piled inverted segment">
+							<div id="sizeCard2"  class="ui left piled inverted segment">
 								<img class="ui medium circular image" src="https://vignette.wikia.nocookie.net/leagueoflegends/images/1/12/League_of_Legends_Icon.png/revision/latest?cb=20150402234343" class="ui tiny left floated image">
 								<div class="floated right text-center description">
 									<p id="textCard">
@@ -127,7 +127,7 @@
 			</div>
 			<div class="four wide column">
 				<div id="carte" class="card">
-							<div class="ui left piled inverted segment">
+							<div id="sizeCard2" class="ui left piled inverted segment">
 								<img class="ui medium circular image" src="Overwatch_circle_logo.svg.png" class="ui tiny left floated image">
 								<div class="floated right text-center description">
 									<p id="textCard">
@@ -139,11 +139,11 @@
 			</div>
 			<div class="four wide column">
 				<div id="carte" class="card">
-							<div class="ui left piled inverted segment">
+							<div id="sizeCard2" class="ui left piled inverted segment">
 								<img class="ui medium circular image" src="d3.png" class="ui tiny left floated image">
 								<div class="floated right text-center description">
 									<p id="textCard">
-										Nous jouons occasionnellement , mais rien ne vous empêche de trouver des personnes qui sont intéressés par Diablo III .
+										Nous jouons occasionnellement , mais rien ne vous empêche de trouver des personnes qui sont intéressés par Diablo III 
 									</p>      
 								</div>
 							</div>
@@ -151,7 +151,7 @@
 			</div>
 			<div class="four wide column">
 				<div id="carte" class="card">
-							<div class="ui left piled inverted segment">
+							<div id="sizeCard2" class="ui left piled inverted segment">
 								<img class="ui medium circular image" src="dofus.png" class="ui tiny left floated image">
 								<div class="floated right text-center description">
 									<p id="textCard">
