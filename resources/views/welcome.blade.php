@@ -15,7 +15,7 @@
 </head>
 <body>
 	<!-- menu debut-->
-	<div id="colorMenu" class="ui top fixed  menu">
+	<div id="colorMenu" class="ui top fixed menu">
 		
 		<img class="logoMenu" src="logo_server_site.png">
 		
@@ -166,20 +166,21 @@
 	<!-- fin jeux  -->
 	<!-- discord debut -->
 	<div class="discord">
-		<div class="ui centered grid">
-			<h2 id="titleh22" class="ui header">Discord</h2>
-			<a target="_blank" href="https://discord.gg/yZD24y">
-				<div class="column"><img class="ui medium circular image" src="logo_server_discord-Recupere.png" class="ui tiny left floated image"></a></div>
-				<div class="column"><h3 id="titleh3" class="ui header">Click to join community</h3></div>
-				</div>
-			</div>
-		</div>
+		
+       <h2 id="titleh2">Discord</h2>
+       <a target="_blank" href="https://discord.gg/yZD24y">
+          <img id="linkDiscord" class="ui medium circular image" src="logo_server_discord-Recupere.png" class="ui tiny image"></a>
+          <h3 class="ui header" id="titleh3"> Click to join community</h3>
 
-		<!-- fin discord -->
 
-	</body>
-	<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	<script src="{{ mix('js/app.js') }}"></script>
-	</html>
+
+      </div>
+
+      <!-- fin discord -->
+
+  </body>
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="{{ mix('js/app.js') }}"></script>
+  </html>
 

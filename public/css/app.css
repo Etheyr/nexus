@@ -1,3 +1,8 @@
+html,
+body {
+  height: 100%;
+}
+
 body {
   background-color: white;
   margin: 0;
@@ -103,22 +108,20 @@ body {
   padding-left: 30px;
 }
 
-.carousel {
-  text-align: center;
-  margin: 0 auto;
+.bs-example {
+  top: 0;
+  left: 0;
 }
 
-.carousel .item {
-  width: 100%;
-  min-height: 400px;
-  /* Prevent carousel from being distorted if for some reason image doesn't load */
+.carousel,
+.item,
+.active {
+  height: 100%;
+  margin-top: 0px;
 }
 
-.carousel .item img {
-  margin: 0 auto;
-  height: 800px;
-  width: 100%;
-  /* Align slide image horizontally center */
+.carousel-inner {
+  height: 100%;
 }
 
 .discord {
@@ -126,5 +129,18 @@ body {
   background-image: url("/champion.png");
   height: 71em;
   width: 100%;
+}
+
+#linkDiscord {
+  float: left;
+  margin-top: 10%;
+  margin-left: 20%;
+}
+
+#titleh3 {
+  display: inline-block;
+  margin-top: 15%;
+  margin-left: 5%;
+  font-size: 60px;
 }
 
