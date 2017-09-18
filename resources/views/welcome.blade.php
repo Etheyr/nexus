@@ -119,7 +119,7 @@
 								<img class="ui medium circular image" src="https://vignette.wikia.nocookie.net/leagueoflegends/images/1/12/League_of_Legends_Icon.png/revision/latest?cb=20150402234343" class="ui tiny left floated image">
 								<div class="floated right text-center description">
 									<p id="textCard">
-										Nous jouons surtout pour le fun , mais il peut nous arriver de try hard , venez chercher du mondde pour flex ou pour duoQ .
+										Nous jouons surtout pour le fun , mais il peut nous arriver de try hard . Venez chercher du monde pour flex , pour duoQ ou tout simplement pour une normal.
 									</p>      
 								</div>
 							</div>
@@ -131,7 +131,7 @@
 								<img class="ui medium circular image" src="Overwatch_circle_logo.svg.png" class="ui tiny left floated image">
 								<div class="floated right text-center description">
 									<p id="textCard">
-										Un peut pareille que league of legends nous jouons pour le fun mais il peut nous arriver de try hard , venez chercher vos mate .
+										Un peu comme League Of Legends , nous jouons pour le fun mais il peut nous arriver de try hard , venez chercher dess mates.
 									</p>      
 								</div>
 							</div>
@@ -143,7 +143,7 @@
 								<img class="ui medium circular image" src="d3.png" class="ui tiny left floated image">
 								<div class="floated right text-center description">
 									<p id="textCard">
-										Nous jouons occasionnellement mais rien ne vous empeche de trouver des personne qui sont intéresser par Diablo III .
+										Nous jouons occasionnellement , mais rien ne vous empêche de trouver des personnes qui sont intéressés par Diablo III .
 									</p>      
 								</div>
 							</div>
