@@ -24,8 +24,8 @@
 		<a href="#page-0" id="itemsMenu" class="item js-scrollTo">Nexus Community</a>
 		<div class="right menu">
 		<div class="item">
-				<button id="bt1" class="ui secondary button "></button>
-				<button id="tn2" class="ui button "></button>
+				<button id="btn1" class="ui secondary button "></button>
+				<button id="btn2" class="ui button "></button>
 			</div>
 			<a href="#page-1" id="itemsMenu" class="item js-scrollTo">Présentation</a>
 			<a href="#page-2" id="itemsMenu" class="item js-scrollTo">Jeux</a>

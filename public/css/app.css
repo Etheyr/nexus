@@ -1,7 +1,6 @@
 html,
 body {
 	height: 100%;
-	background-color: white;
 
 }
 #bt1{
@@ -10,6 +9,7 @@ body {
 #bt2{
 	padding: 1em;
 }
+
 body {
 	margin: 0;
 	padding: 0;
@@ -89,9 +89,10 @@ body {
 }
 
 #itemsMenu {
-	color: #595959;
-	font-family: Impact, fantasy;
-	font-size: 30px;
+
+  color: #595959;
+  font-family: Impact, fantasy;
+  font-size: 30px;
 
 }
 
@@ -155,11 +156,12 @@ body {
 }
 
 .cut {
+
 	width: 100%;
 	height: 7em;
 	background-image: url('/backgroundWires.png');
 	background-attachment: fixed;
 
-}
 
+}
 
