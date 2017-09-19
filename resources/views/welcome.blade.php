@@ -175,8 +175,7 @@
 
 		<div>
 			<a target="_blank" href="https://discord.gg/yZD24y">
-				<img id="linkDiscord" class="ui medium circular image" src="logo_server_site.png" class="ui tiny image"></a>
-				<a class="btn-draw" href="#"><span>Join us</span></a> 
+				<img id="linkDiscord" class="ui medium circular image" src="logoJoin.png" class="ui tiny image"></a>
 
 
 
