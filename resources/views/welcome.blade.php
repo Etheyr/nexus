@@ -176,7 +176,7 @@
 		<div>
 			<a target="_blank" href="https://discord.gg/yZD24y">
 				<img id="linkDiscord" class="ui medium circular image" src="logo_server_discord-Recupere.png" class="ui tiny image"></a>
-				<h3 class="ui header" id="titleh3"> Click to join community</h3>
+				<a class="btn-draw" href="#"><span>Join us</span></a> 
 
 
 
