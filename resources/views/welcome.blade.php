@@ -60,6 +60,10 @@
 	<!-- carrousel fin  -->
 	<div class="cut"></div>
 
+	<input type="button" id="btn1" value="ICI CHANGE COLOR NOIR">
+	<br>
+	<input type="button" id="btn2" value="ICI CHANGE COLOR BLANC">
+
 	<!-- prez debut -->
 	<div id="page-1" class="presentation">
 		<div class="ui container">

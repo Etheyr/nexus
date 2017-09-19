@@ -9,4 +9,13 @@ $(document).ready(function () {
 			$('html, body').animate( { scrollTop: $(page).offset().top }, speed ); // Go
 			return false;
 		});
+
+	$('#btn1').click(function () {
+		console.log('prout');
+		$('body').css('background-color','#2f2f2f');
+	});
+	$('#btn2').click(function () {
+		console.log('prout');
+		$('body').css('background-color','white');
+	});
 });
