@@ -17,13 +17,13 @@
 	<!-- menu debut-->
 	<div id="colorMenu" class="ui top fixed menu">
 		
-		<img class="logoMenu" src="logo_server_site.png">
+		<a href="#page-0"><img  class="logoMenu" src="logo_server_site.png"></a>
 		
-		<a id="itemsMenu" class="item">Nexus Community</a>
+		<a href="#page-0" id="itemsMenu" class="item js-scrollTo">Nexus Community</a>
 		<div class="right menu">
-			<a id="itemsMenu" class="item">Présentation</a>
-			<a id="itemsMenu" class="item">Jeux</a>
-			<a id="itemsMenu" class="item">Discord</a>
+			<a href="#page-1" id="itemsMenu" class="item js-scrollTo">Présentation</a>
+			<a href="#page-2" id="itemsMenu" class="item js-scrollTo">Jeux</a>
+			<a href="#page-3" id="itemsMenu" class="item js-scrollTo">Discord</a>
 		</div>
 	</div>
 
@@ -31,7 +31,7 @@
 
 	<!-- carrousel debut  -->
 
-	<div class="bs-example">
+	<div id="page-0" class="bs-example">
 		<div id="myCarousel" class="carousel slide" data-ride="carousel">
 			<!-- Carousel indicators -->
 			<ol class="carousel-indicators">
@@ -64,11 +64,11 @@
 
 
 	<!-- prez debut -->
-	<div class="presentation">
+	<div id="page-1" class="presentation">
 		<div class="ui container">
 			<div class="ui grid">
 				<div class="sixteen wide column">
-					<h2 id="titleh2" class="ui header">Presentation</h2>
+					<h2  id="titleh2" class="ui header">Presentation</h2>
 					<div class="ui three stackable cards">
 						<div id="carte" class="card">
 							<div id="sizeCard" class="ui left piled inverted segment">
@@ -110,8 +110,8 @@
 	</div>
 	<!-- prez fin -->
 	<!-- jeux debut -->
-	<div class="jeux">
-		<h2 id="titleh22" class="ui header">Jeux</h2>
+	<div id="page-2" class="jeux">
+		<h2 id="titleh2" class="ui header">Jeux</h2>
 		<div class="ui grid container">
 			<div class="four wide column">
 				<div id="carte" class="card">
@@ -165,9 +165,11 @@
 	</div>
 	<!-- fin jeux  -->
 	<!-- discord debut -->
-	<div class="discord">
+	<div id="page-3" class="discord">
 		
        <h2 id="titleh2">Discord</h2>
+
+       <div>
        <a target="_blank" href="https://discord.gg/yZD24y">
           <img id="linkDiscord" class="ui medium circular image" src="logo_server_discord-Recupere.png" class="ui tiny image"></a>
           <h3 class="ui header" id="titleh3"> Click to join community</h3>
