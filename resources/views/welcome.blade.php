@@ -76,7 +76,7 @@
 								<h3 id="titleCard"  class="ui header text-center" style="margin-top: 0px;">Notre discord</h3>
 								<div class="floated right text-center description">
 									<p id="textCard">
-										Au début nous avons créer ce discord pour tester diverse bot et petit à petit nous avont inviter nos amis ,pour au final garder ce serveur comme principal.
+										Au début nous avons créé ce discord pour tester diverse bot et petit à petit nous avont inviter nos amis ,pour au final garder ce serveur comme principal.
 									</p>                
 								</div>
 							</div>
