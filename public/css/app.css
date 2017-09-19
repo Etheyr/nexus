@@ -4,7 +4,7 @@ body {
 }
 
 body {
-  background-color: #2f2f2f;
+  background-color: white;
   margin: 0;
   padding: 0;
 }
@@ -126,7 +126,7 @@ body {
 
 .discord {
   margin-top: 10em;
-  background-image: url("/champion.png");
+  background-image: url("/discord.png");
   height: 71em;
   width: 100%;
 }
@@ -139,7 +139,6 @@ body {
 
 #titleh3 {
   display: inline-block;
-  color: white;
   margin-top: 15%;
   margin-left: 5%;
   font-size: 60px;
