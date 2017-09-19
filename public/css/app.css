@@ -1,14 +1,15 @@
 html,
 body {
   height: 100%;
-  background-color: #2f2f2f;
-
+  background-color: white;
 }
-#colorChanger{
+#bt1{
+	padding: 1em;
+}
+#bt2{
 	padding: 1em;
 }
 body {
-background-color: 2f2f2f;
   margin: 0;
   padding: 0;
 }
@@ -17,7 +18,6 @@ background-color: 2f2f2f;
   background-image: url("/annieHex.png");
   height: 71em;
   width: 100%;
-
 }
 
 #titleh2 {
@@ -33,7 +33,8 @@ background-color: 2f2f2f;
   -webkit-box-shadow: none;
   box-shadow: none;
   border-radius: 30px;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+          box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
 
 #colorMenu {
@@ -45,7 +46,6 @@ background-color: 2f2f2f;
   margin: 3em;
   height: 30em;
   border-radius: 30px;
-
 }
 
 #sizeCard {
@@ -66,7 +66,6 @@ background-color: 2f2f2f;
   background-repeat: no-repeat;
   height: 71em;
   width: 100%;
-
 }
 
 #textCard {
@@ -132,7 +131,6 @@ background-color: 2f2f2f;
 }
 
 .discord {
-
   background-image: url("/803488.png");
   background-repeat: no-repeat;
   height: 71em;
@@ -143,7 +141,8 @@ background-color: 2f2f2f;
   float: left;
   margin-top: 10%;
   margin-left: 20%;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+          box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
 
 #titleh3 {
@@ -153,10 +152,11 @@ background-color: 2f2f2f;
   font-size: 60px;
   color: white;
 }
+
 .cut {
-	width: 100%;
-	height: 2em;
-		background-image: url("/IMG_39993.png");
-		background-attachment: fixed;
+  width: 100%;
+  height: 7em;
+  background-image: url('/home/etheyr/nexus/nexus/public/backgroundWires.png');
+ background-attachment: fixed;
 }
 
