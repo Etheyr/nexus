@@ -57,13 +57,8 @@
 		</div>
 	</div>
 
-	<br>
-	<br>
-	<br>
-	<br>
-
 	<!-- carrousel fin  -->
-
+	<div class="cut"></div>
 
 	<!-- prez debut -->
 	<div id="page-1" class="presentation">
@@ -74,6 +69,7 @@
 					<div class="ui three stackable cards">
 						<div id="carte" class="ui link card">
 							<div id="sizeCard" class="ui link inverted segment">
+
 								<img src="https://cdn.worldvectorlogo.com/logos/discord.svg" class="ui tiny left floated image">
 								<h3 id="titleCard"  class="ui header text-center" style="margin-top: 0px;">Notre discord</h3>
 								<div class="floated right text-center description">
@@ -111,6 +107,7 @@
 		</div>
 	</div>
 	<!-- prez fin -->
+		<div class="cut"></div>
 	<!-- jeux debut -->
 	<div id="page-2" class="jeux">
 		<h2 id="titleh2" class="ui header">Jeux</h2>
@@ -166,6 +163,7 @@
 		</div>
 	</div>
 	<!-- fin jeux  -->
+		<div class="cut"></div>
 	<!-- discord debut -->
 	<div id="page-3" class="discord">
 		
@@ -179,6 +177,8 @@
 
 
       </div>
+
+
 
       <!-- fin discord -->
 

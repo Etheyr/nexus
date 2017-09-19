@@ -1,6 +1,6 @@
 $(document).ready(function () {
 	$('#myCarousel').carousel({
-		interval: 5000
+		interval: 4000
 	});
 
 	$('.js-scrollTo').on('click', function() { 

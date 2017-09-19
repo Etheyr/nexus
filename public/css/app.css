@@ -15,6 +15,7 @@ body {
   background-image: url("/annieHex.png");
   height: 71em;
   width: 100%;
+
 }
 
 #titleh2 {
@@ -30,6 +31,7 @@ body {
   -webkit-box-shadow: none;
   box-shadow: none;
   border-radius: 30px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
 #colorMenu {
@@ -41,6 +43,7 @@ body {
   margin: 3em;
   height: 30em;
   border-radius: 30px;
+
 }
 
 #sizeCard {
@@ -57,10 +60,11 @@ body {
 }
 
 .jeux {
-  background-image: url("/aurelion.png");
+  background-image: url("/aurelionpx.png");
   background-repeat: no-repeat;
   height: 71em;
   width: 100%;
+  
 }
 
 #textCard {
@@ -125,6 +129,7 @@ body {
 }
 
 .discord {
+
   background-image: url("/803488.png");
   background-repeat: no-repeat;
   height: 71em;
@@ -135,6 +140,7 @@ body {
   float: left;
   margin-top: 10%;
   margin-left: 20%;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
 #titleh3 {
@@ -143,5 +149,11 @@ body {
   margin-left: 5%;
   font-size: 60px;
   color: white;
+}
+.cut {
+	width: 100%;
+	height: 2em;
+		background-image: url("/IMG_39993.png");
+		background-attachment: fixed;
 }
 
