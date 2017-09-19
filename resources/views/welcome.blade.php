@@ -42,13 +42,13 @@
 			<!-- Wrapper for carousel items -->
 			<div class="carousel-inner">
 				<div id="imgtaille" class="item active">
-					<img class="taille" src="/Mate01.png" alt="First Slide">
+					<img class="taille" src="/1.png" alt="First Slide">
 				</div>
 				<div id="imgtaille" class="item">
-					<img class="taille" src="/Discord03.png" alt="Second Slide">
+					<img class="taille" src="/2.png" alt="Second Slide">
 				</div>
 				<div id="imgtaille" class="item">
-					<img class="taille" src="/Amusez02.png" alt="Third Slide">
+					<img class="taille" src="/3.png" alt="Third Slide">
 				</div>
 			</div>
 
