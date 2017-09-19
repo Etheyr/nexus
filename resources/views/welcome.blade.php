@@ -8,6 +8,8 @@
 	
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/semantic-ui/2.2.10/semantic.min.css">
 
+	<link rel="icon" href="logo_server_site.png">
+
 	<title>Nexus</title>
 	<link rel="stylesheet" href="{{ mix('css/app.css') }}">
 	<!-- Fonts -->
