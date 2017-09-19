@@ -15,6 +15,7 @@ $(document).ready(function () {
 		$('body').css('background-color','#2f2f2f');
 		$('#colorMenu').css('background-color','white');
 		$('a').css('color','#2f2f2f');
+		$('.h2didi').css('color','white');
 
 	});
 	$('#btn2').click(function () {
@@ -22,5 +23,6 @@ $(document).ready(function () {
 		$('body').css('background-color','white');
 		$('#colorMenu').css('background-color','#2f2f2f');
 		$('a').css('color','white');
+		$('.h2didi').css('color','#2f2f2f');
 	});
 });
