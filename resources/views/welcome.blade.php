@@ -72,8 +72,8 @@
 				<div class="sixteen wide column">
 					<h2  id="titleh2" class="ui header">Presentation</h2>
 					<div class="ui three stackable cards">
-						<div id="carte" class="card">
-							<div id="sizeCard" class="ui left piled inverted segment">
+						<div id="carte" class="ui link card">
+							<div id="sizeCard" class="ui link inverted segment">
 								<img src="https://cdn.worldvectorlogo.com/logos/discord.svg" class="ui tiny left floated image">
 								<h3 id="titleCard"  class="ui header text-center" style="margin-top: 0px;">Notre discord</h3>
 								<div class="floated right text-center description">
@@ -83,8 +83,8 @@
 								</div>
 							</div>
 						</div>
-						<div id="carte" class="card">
-							<div id="sizeCard" class="ui left piled inverted segment">
+						<div id="carte" class="ui link card">
+							<div id="sizeCard" class="ui link inverted segment">
 								<img src="https://vignette.wikia.nocookie.net/leagueoflegends/images/1/12/League_of_Legends_Icon.png/revision/latest?cb=20150402234343" class="ui tiny left floated image">
 								<h3 id="titleCard" class="ui header text-center" style="margin-top: 0px;" >Nos projets</h3>
 								<div class="floated right text-center description">
@@ -94,8 +94,8 @@
 								</div>
 							</div>
 						</div>
-						<div id="carte" class="card">
-							<div id="sizeCard" class="ui left piled inverted segment">
+						<div id="carte" class="ui link card">
+							<div id="sizeCard" class="ui link inverted segment">
 								<img src="http://www.icone-png.com/png/25/24892.png" class="ui tiny left floated image">
 								<h3 id="titleCard"  class="ui header text-center" style="margin-top: 0px;" >Notre but</h3>
 								<div class="floated right text-center description">
@@ -116,8 +116,8 @@
 		<h2 id="titleh2" class="ui header">Jeux</h2>
 		<div class="ui grid container">
 			<div class="four wide column">
-				<div id="carte" class="card">
-					<div id="sizeCard2"  class="ui left piled inverted segment">
+				<div id="carte" class="ui link card">
+					<div id="sizeCard2"  class="ui left inverted segment">
 						<img class="ui medium circular image" src="https://vignette.wikia.nocookie.net/leagueoflegends/images/1/12/League_of_Legends_Icon.png/revision/latest?cb=20150402234343" class="ui tiny left floated image">
 						<div class="floated right text-center description">
 							<p id="textCard">
@@ -128,8 +128,8 @@
 				</div>
 			</div>
 			<div class="four wide column">
-				<div id="carte" class="card">
-					<div id="sizeCard2" class="ui left piled inverted segment">
+				<div id="carte" class="ui link card">
+					<div id="sizeCard2" class="ui left  inverted segment">
 						<img class="ui medium circular image" src="Overwatch_circle_logo.svg.png" class="ui tiny left floated image">
 						<div class="floated right text-center description">
 							<p id="textCard">
@@ -140,8 +140,8 @@
 				</div>
 			</div>
 			<div class="four wide column">
-				<div id="carte" class="card">
-					<div id="sizeCard2" class="ui left piled inverted segment">
+				<div id="carte" class="ui link card">
+					<div id="sizeCard2" class="ui left  inverted segment">
 						<img class="ui medium circular image" src="d3.png" class="ui tiny left floated image">
 						<div class="floated right text-center description">
 							<p id="textCard">
@@ -152,8 +152,8 @@
 				</div>
 			</div>
 			<div class="four wide column">
-				<div id="carte" class="card">
-					<div id="sizeCard2" class="ui left piled inverted segment">
+				<div id="carte" class="ui link card">
+					<div id="sizeCard2" class="ui left  inverted segment">
 						<img class="ui medium circular image" src="dofus.png" class="ui tiny left floated image">
 						<div class="floated right text-center description">
 							<p id="textCard">
