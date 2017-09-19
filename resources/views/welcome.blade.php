@@ -57,11 +57,6 @@
 		</div>
 	</div>
 
-	<br>
-	<br>
-	<br>
-	<br>
-
 	<!-- carrousel fin  -->
 
 
@@ -72,8 +67,8 @@
 				<div class="sixteen wide column">
 					<h2  id="titleh2" class="ui header">Presentation</h2>
 					<div class="ui three stackable cards">
-						<div id="carte" class="card">
-							<div id="sizeCard" class="ui left piled inverted segment">
+						<div id="carte" class="card ui link">
+							<div id="sizeCard" class="ui left inverted segment">
 								<img src="https://cdn.worldvectorlogo.com/logos/discord.svg" class="ui tiny left floated image">
 								<h3 id="titleCard"  class="ui header text-center" style="margin-top: 0px;">Notre discord</h3>
 								<div class="floated right text-center description">
@@ -179,6 +174,8 @@
 
 
       </div>
+
+
 
       <!-- fin discord -->
 

@@ -55,7 +55,6 @@ body {
 }
 
 .jeux {
-  margin-top: 10em;
   background-image: url("/Hanamura-blur.png");
   height: 71em;
   width: 100%;
@@ -123,7 +122,6 @@ body {
 }
 
 .discord {
-  margin-top: 10em;
   background-image: url("/discord.png");
   height: 71em;
   width: 100%;
