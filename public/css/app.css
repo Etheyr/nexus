@@ -109,8 +109,16 @@ body {
 }
 
 .bs-example {
+  width: 100%;
+  height: 100%;
   top: 0;
   left: 0;
+}
+
+.taille {
+  width: 100%;
+  float: left;
+  height: 100%;
 }
 
 .carousel,
