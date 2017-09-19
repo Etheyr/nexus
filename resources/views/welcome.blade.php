@@ -41,14 +41,14 @@
 			</ol>   
 			<!-- Wrapper for carousel items -->
 			<div class="carousel-inner">
-				<div class="item active">
-					<img class="taille" src="/JoinMateNew01.png" alt="First Slide">
+				<div id="imgtaille" class="item active">
+					<img class="taille" src="/Mate01.png" alt="First Slide">
 				</div>
-				<div class="item">
-					<img class="taille" src="/joinDiscordNew02.png" alt="Second Slide">
+				<div id="imgtaille" class="item">
+					<img class="taille" src="/Discord03.png" alt="Second Slide">
 				</div>
-				<div class="item">
-					<img class="taille" src="/amusez03.png" alt="Third Slide">
+				<div id="imgtaille" class="item">
+					<img class="taille" src="/Amusez02.png" alt="Third Slide">
 				</div>
 			</div>
 
