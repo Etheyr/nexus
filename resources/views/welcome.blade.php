@@ -21,7 +21,7 @@
 		
 		<a id="itemsMenu" class="item">Nexus Community</a>
 		<div class="right menu">
-			<a id="itemsMenu" class="item">Présentaton</a>
+			<a id="itemsMenu" class="item">Présentation</a>
 			<a id="itemsMenu" class="item">Jeux</a>
 			<a id="itemsMenu" class="item">Discord</a>
 		</div>
