@@ -1,135 +1,144 @@
-html, body {
-	height: 100%;
-}
+html,
 body {
-	background-color: white;
-	margin: 0;
-	padding: 0;
-}
-.presentation {
-	background-image: url('/133362-wallup .png');
-	height: 71em;
-	width: 100%;
+  height: 100%;
 }
 
-#titleh2{
-	margin-top: 4em;
-	text-align: center;
-	color:white;
-	font-size: 45px;
-	font-family: Impact, fantasy;
+body {
+  background-color: white;
+  margin: 0;
+  padding: 0;
 }
-#titleh22{
-	margin-top: 3em;
-	text-align: center;
-	color:white;
-	font-size: 45px;
-	font-family: Impact, fantasy;
+
+.presentation {
+  background-image: url("/133362-wallup .png");
+  height: 71em;
+  width: 100%;
+}
+
+#titleh2 {
+padding-top: 2em;
+  text-align: center;
+  color: white;
+  font-size: 45px;
+  font-family: Impact, fantasy;
 }
 #carte {
-	margin-top: 10em;
-	box-shadow: none;
-	border-radius: 30px;
+  margin-top: 10em;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  border-radius: 30px;
 }
-#colorMenu{
-	background-color: white;
-}
-#card {
-	margin-top: 10em;
-	margin: 3em;
-	height: 30em;
-	border-radius: 30px;
-}
-#sizeCard{
-	height: 20em;
-	border-radius: 30px;
-	
-}
-#sizeCard2{
-	height: 37em;
-}
-#titleCard {
-	font-size: 30px;
-}
-.jeux{
-	margin-top: 10em;
-	background-image: url('/Hanamura-blur.png');
-	height: 71em;
-	width: 100%;
 
+#colorMenu {
+  background-color: white;
+}
+
+#card {
+  margin-top: 10em;
+  margin: 3em;
+  height: 30em;
+  border-radius: 30px;
+}
+
+#sizeCard {
+  height: 20em;
+  border-radius: 30px;
+}
+
+#sizeCard2 {
+  height: 37em;
+}
+
+#titleCard {
+  font-size: 30px;
+}
+
+.jeux {
+  margin-top: 10em;
+  background-image: url("/Hanamura-blur.png");
+  height: 71em;
+  width: 100%;
 }
 
 #textCard {
-	color:white;
-	font-size: 24px;
-	font-family: Impact, fantasy;
+  color: white;
+  font-size: 24px;
+  font-family: Impact, fantasy;
 }
+
 .imgLogo {
-	float: left;
-	margin: 20px;
+  float: left;
+  margin: 20px;
 }
 
 .titre {
-	font-size: 40px;
-	padding-left: 100px;
-	font-weight: bold;
-	color:#787878;
-	font-family: Impact, fantasy;
-
+  font-size: 40px;
+  padding-left: 100px;
+  font-weight: bold;
+  color: #787878;
+  font-family: Impact, fantasy;
 }
+
 #itemsMenu {
-
-	color:#595959;
-	font-family: Impact, fantasy;
-	font-size: 30px;
-
+  color: #595959;
+  font-family: Impact, fantasy;
+  font-size: 30px;
 }
+
 #menu {
-
-	padding-right: 120px;
-	font-size: 30px;
+  padding-right: 120px;
+  font-size: 30px;
 }
-.logoMenu{
-	height: 80px;
-	width: 80px;
+
+.logoMenu {
+  height: 80px;
+  width: 80px;
 }
 
 #menuLi {
-	padding-left: 30px;
+  padding-left: 30px;
 }
-.bs-example{
-	width: 100%;
-	height: 100%;
+
+.bs-example {
+  width: 100%;
+  height: 100%;
 }
+
 #imgtaille img {
-	width: 100%;
-	height: 100%;
-	display: block;
+  width: 100%;
+  height: 100%;
+  display: block;
 }
-.carousel,.item,.active{
-	height:100%;
-	margin-top: 0px;
-}
-.carousel-inner{
 
-	height:100%;
+.carousel,
+.item,
+.active {
+  height: 100%;
+  margin-top: 0px;
 }
+
+.carousel-inner {
+  height: 100%;
+}
+
 .discord {
-	margin-top: 10em;
-	background-image: url('/discord.png');
-	height: 71em;
-	width: 100%;
-
+  margin-top: 10em;
+  background-image: url("/discord.png");
+  height: 71em;
+  width: 100%;
 }
 
 #linkDiscord {
-	float: left;
-	margin-top: 10%;
-	margin-left: 20%;
+  float: left;
+  margin-top: 10%;
+  margin-left: 20%;
 }
+
 #titleh3 {
-	display: inline-block;
-	margin-top: 15%;
-	margin-left: 5%;
-	font-size: 60px;
+  display: inline-block;
+  margin-top: 15%;
+  margin-left: 5%;
+  font-size: 60px;
+  color: white;
 }
+

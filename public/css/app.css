@@ -16,16 +16,17 @@ body {
 }
 
 #titleh2 {
-padding-top: 2em;
+  padding-top: 2em;
   text-align: center;
   color: white;
   font-size: 45px;
   font-family: Impact, fantasy;
 }
+
 #carte {
   margin-top: 10em;
   -webkit-box-shadow: none;
-          box-shadow: none;
+  box-shadow: none;
   border-radius: 30px;
 }
 
@@ -141,5 +142,4 @@ padding-top: 2em;
   font-size: 60px;
   color: white;
 }
-
 
