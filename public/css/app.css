@@ -14,11 +14,19 @@ body {
   width: 100%;
 }
 
+.h2didi {
+  padding-top: 2em;
+  text-align: center;
+  font-size: 45px;
+  font-family: Impact, fantasy;
+}
+
 #titleh2 {
   padding-top: 2em;
   text-align: center;
   font-size: 45px;
   font-family: Impact, fantasy;
+  color: white;
 }
 
 #carte {

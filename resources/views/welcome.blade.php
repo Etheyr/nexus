@@ -171,7 +171,7 @@
 	<!-- discord debut -->
 	<div id="page-3" class="discord">
 		
-		<h2 id="titleh2" class="h2didi">Discord</h2>
+		<h2 class="h2didi">Discord</h2>
 
 		<div>
 			<a target="_blank" href="https://discord.gg/yZD24y">
