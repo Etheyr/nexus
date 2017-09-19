@@ -4,9 +4,11 @@ body {
   background-color: #2f2f2f;
 
 }
-
+#colorChanger{
+	padding: 1em;
+}
 body {
-  background-color: white;
+background-color: 2f2f2f;
   margin: 0;
   padding: 0;
 }
@@ -64,7 +66,7 @@ body {
   background-repeat: no-repeat;
   height: 71em;
   width: 100%;
-  
+
 }
 
 #textCard {
@@ -90,6 +92,7 @@ body {
   color: #595959;
   font-family: Impact, fantasy;
   font-size: 30px;
+
 }
 
 #menu {

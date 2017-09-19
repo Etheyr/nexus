@@ -17,12 +17,16 @@
 </head>
 <body>
 	<!-- menu debut-->
-	<div id="colorMenu" class="ui top fixed menu">
+	<div id="colorMenu" class="ui top fixed  menu">
 		
 		<a href="#page-0"><img  class="logoMenu" src="logo_server_site.png"></a>
 		
 		<a href="#page-0" id="itemsMenu" class="item js-scrollTo">Nexus Community</a>
 		<div class="right menu">
+		<div class="item">
+				<button id="colorChanger" class="ui secondary button "></button>
+				<button id="colorChanger" class="ui button "></button>
+			</div>
 			<a href="#page-1" id="itemsMenu" class="item js-scrollTo">Présentation</a>
 			<a href="#page-2" id="itemsMenu" class="item js-scrollTo">Jeux</a>
 			<a href="#page-3" id="itemsMenu" class="item js-scrollTo">Discord</a>
@@ -107,7 +111,7 @@
 		</div>
 	</div>
 	<!-- prez fin -->
-		<div class="cut"></div>
+	<div class="cut"></div>
 	<!-- jeux debut -->
 	<div id="page-2" class="jeux">
 		<h2 id="titleh2" class="ui header">Jeux</h2>
@@ -163,28 +167,28 @@
 		</div>
 	</div>
 	<!-- fin jeux  -->
-		<div class="cut"></div>
+	<div class="cut"></div>
 	<!-- discord debut -->
 	<div id="page-3" class="discord">
 		
-       <h2 id="titleh2">Discord</h2>
+		<h2 id="titleh2">Discord</h2>
 
-       <div>
-       <a target="_blank" href="https://discord.gg/yZD24y">
-          <img id="linkDiscord" class="ui medium circular image" src="logo_server_discord-Recupere.png" class="ui tiny image"></a>
-          <h3 class="ui header" id="titleh3"> Click to join community</h3>
-
-
-
-      </div>
+		<div>
+			<a target="_blank" href="https://discord.gg/yZD24y">
+				<img id="linkDiscord" class="ui medium circular image" src="logo_server_discord-Recupere.png" class="ui tiny image"></a>
+				<h3 class="ui header" id="titleh3"> Click to join community</h3>
 
 
 
-      <!-- fin discord -->
+			</div>
 
-  </body>
-  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <script src="{{ mix('js/app.js') }}"></script>
-  </html>
+
+
+			<!-- fin discord -->
+
+		</body>
+		<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<script src="{{ mix('js/app.js') }}"></script>
+		</html>
 
