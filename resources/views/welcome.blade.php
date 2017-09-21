@@ -22,8 +22,9 @@
 		<a href="#page-0"><img  class="logoMenu" src="logo_server_site.png"></a>
 		
 		<a href="#page-0" id="itemsMenu" class="item js-scrollTo">Nexus Community</a>
+		
 		<div class="right menu">
-		<div class="item">
+			<div class="item">
 				<button id="btn1" class="ui secondary button "></button>
 				<button id="btn2" class="ui button "></button>
 			</div>
